@@ -1,2 +1,0 @@
-this is a txt file
-it will be a beginning of a serise of program
